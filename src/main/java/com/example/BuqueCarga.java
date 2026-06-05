@@ -1,3 +1,4 @@
+package main.java.com.example;
 public class BuqueCarga extends Transporte {
     private int cantidadContenedores;
 

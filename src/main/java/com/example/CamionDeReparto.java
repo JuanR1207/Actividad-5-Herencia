@@ -1,4 +1,4 @@
-public class CamionDeReparto extends Transporte {
+package main.java.com.example;public class CamionDeReparto extends Transporte {
     private boolean tieneRefrigeracion;
 
     public CamionDeReparto(String idTransporte, double combustible,
